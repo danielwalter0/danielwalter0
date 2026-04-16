@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danielwalter0/danielwalter0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science student at Brunel University of London.
 
-Here are some ideas to get you started:
+I enjoy building things from the ground up, solving problems, and holding myself to high standards. I learn best by diving in and figuring things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java, SQL, Python, JavaScript
+- **Tools:** Git, GitHub, DB Browser for SQLite, IBM SPSS
+- **Practices:** OOP, Agile, Version Control
+
+## 📚 Currently Learning
+- Python for Data Science & AI
+- JavaScript with React, Node & MongoDB
+- Cybersecurity fundamentals
