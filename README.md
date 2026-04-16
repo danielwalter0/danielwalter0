@@ -12,4 +12,4 @@ I enjoy building things from the ground up, solving problems, and holding myself
 ## 📚 Currently Learning
 - Python for Data Science & AI
 - JavaScript with React, Node & MongoDB
-- Cybersecurity fundamentals
+- Cybersecurity 
