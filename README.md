@@ -10,6 +10,7 @@ I enjoy building things from the ground up, solving problems, and holding myself
 - **Practices:** OOP, Agile, Version Control
 
 ## 📚 Currently Learning
+- Spring framework & Spring Boot
 - Python for Data Science & AI
 - JavaScript with React, Node & MongoDB
 - Cybersecurity 
