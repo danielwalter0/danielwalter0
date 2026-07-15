@@ -1,16 +1,19 @@
 # Hi, I'm Daniel 👋
 
-First-year Computer Science student at Brunel University of London.
+Computer Science student at Brunel University of London, heading into my second year.
 
 I enjoy building things from the ground up, solving problems, and holding myself to high standards. I learn best by diving in and figuring things out.
 
 ## 🛠️ Skills
-- **Languages:** Java, SQL, Python, JavaScript
-- **Tools:** Git, GitHub, DB Browser for SQLite, IBM SPSS
-- **Practices:** OOP, Agile, Version Control
+- **Languages:** Java, JavaScript, Python, SQL, HTML/CSS
+- **Frameworks & Libraries:** React, Node.js, Express, Mongoose, Tailwind
+- **Databases:** MongoDB (Atlas), SQLite
+- **Tools:** Git, GitHub, Vite, Vercel, Render
+- **Practices:** OOP, REST API design, Agile, Version Control
 
 ## 📚 Currently Learning
-- Spring framework & Spring Boot
+- Writing tests — my projects don't have them yet
+- Going deeper on React, Node & MongoDB
+- Spring Framework & Spring Boot
 - Python for Data Science & AI
-- JavaScript with React, Node & MongoDB
-- Cybersecurity 
+- Cybersecurity
