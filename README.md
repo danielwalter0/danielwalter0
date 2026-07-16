@@ -12,7 +12,7 @@ I enjoy building things from the ground up, solving problems, and holding myself
 - **Practices:** OOP, REST API design, Agile, Version Control
 
 ## 📚 Currently Learning
-- Writing tests — my projects don't have them yet
+- Writing tests 
 - Going deeper on React, Node & MongoDB
 - Spring Framework & Spring Boot
 - Python for Data Science & AI
