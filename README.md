@@ -29,11 +29,13 @@ I learn best by diving in and figuring things out.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -42,6 +44,13 @@ I learn best by diving in and figuring things out.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-1D63ED?style=flat-square&logo=testcontainers&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white)
 
 **Practices**
 
@@ -59,7 +68,7 @@ A booking web application built with Java Spring Boot.
 An automated Telegram channel that sends AI news every morning, powered by a Python bot.
 `Python` `Telegram Bot API` `Automation`
 
-### 🔹 [Robot Colour Guessing Game](https://github.com/Ydanielwalter0/robot-colour-guessing-game)
+### 🔹 [Robot Colour Guessing Game](https://github.com/danielwalter0/MasterMindSwiftBotGame)
 A game developed at university where a robot guesses colours, built in Java.
 `Java`
 
