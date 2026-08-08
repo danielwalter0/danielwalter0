@@ -84,16 +84,6 @@ A game developed at university where a robot guesses colours, built in Java.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielwalter0&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Thanks for stopping by — feel free to connect!*
