@@ -64,7 +64,7 @@ I learn best by diving in and figuring things out.
 A booking web application built with Java Spring Boot.
 `Java` `Spring Boot`
 
-### 🔹 [Frontier Stack](https://t.me/frontierstack)
+### 🔹 [Frontier Stack]([https://t.me/frontierstack](https://github.com/danielwalter0/frontier-stack))
 An automated Telegram channel that sends AI news every morning, powered by a Python bot.
 `Python` `Telegram Bot API` `Automation`
 
