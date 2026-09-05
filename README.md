@@ -60,7 +60,7 @@ I learn best by diving in and figuring things out.
 
 ## 🚀 Featured Projects
 
-### 🔹 [Bookt](https://github.com/danielwalter0/bookt) — *in progress*
+### 🔹 [Bookt](https://github.com/danielwalter0/bookt)
 A booking web application built with Java Spring Boot.
 `Java` `Spring Boot`
 
